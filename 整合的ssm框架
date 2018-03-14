@@ -1,1 +1,5 @@
-数据库中的表及其简单 
+数据库中的表信息
+数据库中的表及其简单 就三个数据
+id integer
+name varchar
+age integer
